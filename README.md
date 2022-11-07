@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Tutorial React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was a follow along React tutorial, following https://www.taniarascia.com/getting-started-with-react/
 
-## Available Scripts
+### Motivation/Why did you build this project?
 
-In the project directory, you can run:
+This project/tutorial was used to help me ingrain some of the core concepts I learned during the freecodecamp.org's React/Redux course. As that course uses a built in code editor I found it important to start a react app myself from scratch in VSCode and this tutorial served as a nice introduction.
+
+### What problems did you solve?
+
+I mostly used this project as an introduction to using react in VSCode. This tutorial also introduced me to the chrome extension 'React Developer Tools' which i plan on using more in the future
+
+# The following was taken from the original tutorials README file
 
 ### `npm start`
 
